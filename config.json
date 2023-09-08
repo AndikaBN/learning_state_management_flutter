@@ -1,0 +1,10 @@
+{
+    "modules": [
+        ""
+    ],
+    "module_directory_name": "module",
+    "experimental_mode": false,
+    "learning_mode": true,
+    "unfreezed": true,
+    "use_cubit": false
+}
